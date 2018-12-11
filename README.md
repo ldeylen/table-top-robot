@@ -1,5 +1,7 @@
 # table-top-robot
 
+Example Project is hosted here [https://ldeylen.github.io/](https://ldeylen.github.io/)
+
 Read the document [Rationale](RATIONALE.md) for notes on thought process.
 
 I have create an interface with two methods of how to control the application

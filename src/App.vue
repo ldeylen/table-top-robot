@@ -248,12 +248,12 @@ export default {
     position: absolute;
     top: 0;
     left: 0;
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-family: $primary-font;
 
     &__arena {
         position: absolute;
-        top: 160px;
+        top: 120px;
         left: 50%;
         transform: translateX(-50%);
         width: 250px;
@@ -261,21 +261,22 @@ export default {
 
     &__controller {
         position: absolute;
-        top: 460px;
+        top: 380px;
         left: 50%;
+        width: 80%;
         transform: translateX(-50%);
     }
 
     &__text-area {
         width: 100%;
-        height: 230px;
+        height: 130px;
         font-family: $primary-font;
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
 
     &__label {
         font-family: $primary-font;
-        font-size: 1.5rem;
+        font-size: 1rem;
         margin: 10px;
     }
 
@@ -285,7 +286,7 @@ export default {
         height: 40px;
         margin: 10px;
         border-radius: 10px;
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
     &__select {
         width: 120px;
@@ -294,7 +295,7 @@ export default {
     &__heading {
         font-family: $primary-font;
         text-align: center;
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
     &__paragraph {
